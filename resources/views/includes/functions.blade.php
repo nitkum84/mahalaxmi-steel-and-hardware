@@ -1,0 +1,19 @@
+<!-- jquery js -->
+        <script src="{{ asset('js/jquery-3.6.3.min.js') }}"></script>
+        <!-- bootstrap js -->
+        <script src="{{ asset('js/popper.min.js') }}"></script>
+        <script src="{{ asset('js/bootstrap.min.js') }}"></script>
+        <!-- magnific-popup js -->
+        <script src="{{ asset('js/jquery.magnific-popup.min.js') }}"></script>
+        <!-- owl-carousel js -->
+        <script src="{{ asset('js/owl.carousel.min.js') }}"></script>
+        <!-- swiper-slider js -->
+        <script src="{{ asset('js/swiper-bundle.min.js') }}"></script>
+        <!-- slick js -->
+        <script src="{{ asset('js/slick.min.js') }}"></script>
+        <!-- waypoints js -->
+        <script src="{{ asset('js/waypoints.min.js') }}"></script>
+        <!-- counter js -->
+        <script src="{{ asset('js/counter.js') }}"></script>
+        <!-- main js -->
+        <script src="{{ asset('js/main.js') }}"></script>
